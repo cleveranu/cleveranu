@@ -5,9 +5,9 @@
    <div align="center">
      <img src="https://cdni.iconscout.com/illustration/premium/thumb/girl-working-on-laptop-5256977-4396235.png" width="600" height="300"/>
  <div class="info" style="font-size:35px; ;text-align: start;padding-top: 2rem;font-family: serif;font-weight: bold;">
-  ⚈ I am a Full Stack Developer👩‍💻 and a Programmer💻 </style>
+  ⚈ I am a Full Stack Developer👩‍💻 and a Programmer💻 
  </div>
-<div class="moreinfo" style="font-size: large; text-align:start">
+<div class="moreinfo" style="font-size: large; text-align:start ; padding:2rem;">
  <div class="1"> - 😄 Pronouns: She/her</div>
  <div class="2"> - 🌱 I’m currently studying in Vellore Institue of Technology,Vellore</div>
  <div class="4">-📘 My branch is Computer Science with specialization in Internet of Things</div>
@@ -15,8 +15,8 @@
   <div class="3">- 👯 I’m looking to collaborate on projects.</div>
 </div>
 <div class="cont">
-  <div class="contact"style="font-size:20px; ;text-align:center;padding-top: 2rem;font-family: serif;font-weight: bold;">CONTACT ME!!</div>
-  <div id="badges">
+  <div class="contact"style="font-size:20px; ;text-align:center;padding-top: 2rem;font-family: serif;font-weight: bold;padding:2rem;">CONTACT ME!!</div>
+  <div id="badges" style="padding:2rem";>
    <a href="https://www.linkedin.com/in/anukanksha-priya-664730220">
    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=anukanksha-priya/&logoColor=%22white%22"/></a>
    <a href="https://www.instagram.com/anukanksha__18/?funlid=CsgYesPH1f7C8EvZ">
@@ -28,7 +28,7 @@
 <div class="stats">
 
 
- My Stats :
+
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=cleveranu" class="href"></a> 
 </div>
    <!--
